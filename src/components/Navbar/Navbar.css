@@ -1,0 +1,24 @@
+.nav {
+    width: 100vw;
+    height: 55px;
+    background: #F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav--logo {
+    width: 36px;
+    height: 36px;
+    padding: 3px;
+}
+
+.nav--text {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+
+    color: #FFFFFF;
+    padding: 3px;
+}
